@@ -1,6 +1,9 @@
 # Optimization of Dividend Aristocrat Portfolio Utilizing Fundamental Data
 
 ## Overview
+
+This project was conducted as part of the Y-FoRM 24-1 long-term project initiative.
+
 This project is dedicated to the optimization of a Dividend Aristocrat portfolio by leveraging fundamental financial data. The portfolio optimization primarily focuses on maximizing the Sharpe Ratio while ensuring stable and consistent dividend income, even during periods of market volatility. The study involves the use of key financial metrics, such as the Price-to-Earnings Ratio (PER) and Price-to-Free Cash Flow (P/FCF), to enhance the predictive capability of dividend payments and portfolio stability.
 
 ## Background
@@ -72,15 +75,6 @@ subject to:
 
 ## Conclusion
 This project successfully developed an optimized Dividend Aristocrat portfolio that leverages fundamental financial data to maximize risk-adjusted returns while maintaining stable dividend income. The findings demonstrate the potential for fundamental data-driven portfolio optimization in enhancing investment outcomes, particularly for income-focused investors.
-
-## Contributors
-- **김서연 (34기)**
-- **박상현 (35기)**
-- **조성윤 (34기)**
-- **석정원 (35기)**
-- **황지희 (35기)**
-
-This project was conducted as part of the Y-FoRM 24-1 long-term project initiative.
 
 ## Appendix
 ### Key Parameters
